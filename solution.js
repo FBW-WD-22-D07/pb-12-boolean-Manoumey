@@ -8,13 +8,13 @@
    console.log(3==="3");
 
 // Welche der folgenden Möglichkeiten wird verwendet, um den WERT von zwei Variablen/Werten zu vergleichen?
-   console.log("2");
+   console.log(2);
 
 //Welche der folgenden Möglichkeiten wird verwendet, um den WERT und den TYP von zwei Variablen/Werten zu vergleichen?
-console.log("7");
+console.log(7);
 
 //Welche der folgenden Möglichkeiten wird verwendet, um einer Variablen einen Wert zuzuweisen?
-console.log("9");
+console.log(9);
 
 //2. Nicht
 
@@ -22,7 +22,7 @@ console.log("9");
 
   let myVar = true;
 
-console.log( myVar=false ? 'good morning' : 'good evening' );
+console.log( !myVar ? 'good morning' : 'good evening' );
 
 //3. Kurzer Kreislauf
 
